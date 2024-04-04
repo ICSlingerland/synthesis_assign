@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+venv*/
+.env*/
+
+*.tenv3
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
